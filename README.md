@@ -1,2 +1,2 @@
 # DesignPatterns
-设计模式
+设置模式
